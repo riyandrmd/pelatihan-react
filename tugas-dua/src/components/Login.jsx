@@ -8,7 +8,7 @@ const Login =()=>{
         <>
           <label for="em">Input email :</label>
           <KotakTeks id = "em" type = "email" placeholder = "Input Email"/>
-          <label for="pw">Input password :</label>
+          <label for="pw" type = "pw" placeholder = "Input Password">Input password :</label>
           <KotakTeks id = "pw" type = "password" placeholder = "input password"/>
           <Tombol/>
         </>

@@ -1,9 +1,9 @@
 import React from "react";
 
-const KotakTeks = ( id, type, placeholder) =>{
+const KotakTeks = (props) =>{
    return(
     <div>
-        <input id={id} type={type} placeholder={placeholder}/> <br/>
+        <input id={props.id} type={props.type} placeholder={props.placeholder}/> <br/>
     </div>
    );
 }
