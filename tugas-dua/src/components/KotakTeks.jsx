@@ -8,4 +8,4 @@ const KotakTeks = (props) =>{
    );
 }
 
-export default KotakTeks;
+export default  KotakTeks;

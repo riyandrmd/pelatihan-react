@@ -1,6 +1,6 @@
 import React from "react";
 
-const nama = 'Riyanda Ramadhan'
+const nama = 'Riyanda Ramadhan '
 
 const Header = () => {
     return (
